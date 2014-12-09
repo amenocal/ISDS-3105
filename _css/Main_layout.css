@@ -9,22 +9,21 @@ body  {
 }
 
 #wrapper {
-	width: 770px;
+	width: 800px;
 	background: #fff;
 	margin: 0 auto;
 	text-align: left;
 }#header {
 	background-color: #fc0;
-	margin: 0px;
 	padding: 0px;
-	height: 110px;
+	height: 235px;
 }
 #mainContent {
 	background-color: #cf9;
 	margin: 0px;
 	padding: 0px;
-	height: 500px;
-	width: 480px;
+	height: 1200px;
+	width: 530px;
 	float: left;
 }
 #innercontent {
@@ -71,4 +70,9 @@ body  {
 
 .clear {
 	clear: both;	
+}
+
+#wrapper #contactbutton {
+	position: absolute;
+	left: 650px;
 }
